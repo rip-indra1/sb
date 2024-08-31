@@ -3322,7 +3322,7 @@ end
 end
                 })
 
-  print("---> 6")
+  print("---> 7")
 
   Tab4:AddDropdown({
     Name = "Rojo Charge VFX (Will fling you if spammed)",
@@ -4376,7 +4376,7 @@ end
   end)
 
   print("---> 3")
-  local Gloves = loadstring(game:HttpGet("https://raw.githubusercontent.com/ionlyusegithubformcmods/1-Line-Scripts/main/More%20Gloves.lua"))()
+  -- local Gloves = loadstring(game:HttpGet("https://raw.githubusercontent.com/ionlyusegithubformcmods/1-Line-Scripts/main/More%20Gloves.lua"))()
 end
 print("---> 2")
 for i,v in pairs(gethui().Orion:GetDescendants()) do
